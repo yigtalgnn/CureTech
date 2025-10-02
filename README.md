@@ -1,0 +1,2 @@
+# CureTech
+CureTech Eczane Otomasyonu
